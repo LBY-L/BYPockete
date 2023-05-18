@@ -1,6 +1,6 @@
 # LBY'S Launcher
 
-## Before you need isntall java here how download it:
+## Before you need install java here how download it:
 
 - **Archlinux/Manjaro:** ``sudo pacman -S jre8-openjdk``
 - **Ubuntu/Debian:**  ``sudo apt-get install openjdk-8-jdk``
