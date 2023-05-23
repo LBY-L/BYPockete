@@ -1,4 +1,4 @@
-# LBY'S Launcher
+# BYPockete Launcher
 
 ## Before you need install java here how download it:
 
