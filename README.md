@@ -7,6 +7,7 @@
 - **Fedora:** ``sudo dnf install java-1.8.0-openjdk ``
 - **CentOs:** ``yum install java-1.8.0-openjdk``
 - **Windows:** [download in official page here](https://www.java.com/en/download/)
-- **MacOs:** I don't even know if it works there XD, PS: I don't have a mac BTW
+- **MacOs:** I don't even know if it works there XD, PS: I don't have a mac. BTW who plays Minecraft in Mac?
+## 
 
 
