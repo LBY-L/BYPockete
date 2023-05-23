@@ -12,4 +12,5 @@
 ### Minimal terminal characters:
 - **78 of Width x 25 of Height**
 ##### What happens if you dont have this minimum width:
-![Captura de pantalla de 2023-05-22 20-40-20](https://github.com/LBY-L/BYPockete/assets/93894290/0ed86e12-7762-439f-85a3-433a8dc90433)
+
+![Captura de pantalla de 2023-05-22 20-40-20](https://github.com/LBY-L/BYPockete/assets/93894290/adaea160-1f56-4c5e-bea7-2d5eb247c196)
